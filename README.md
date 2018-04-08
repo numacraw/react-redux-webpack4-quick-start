@@ -1,1 +1,1 @@
-使用React+react+Webpack4快速构建项目
+使用React+Redux+Webpack4快速构建项目
